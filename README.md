@@ -25,7 +25,8 @@ API ini di buat menggunakan **Hapi Framework**(Node.js) memungkinkan pengguna un
 - Nodemon
 - ESLint (dengan config Dicoding)
 
-## 📁 Struktur Folder
+## 📁 Struktur Proyek
+```bash
 bookshelf-api/
 ├── src/
 │ ├── handler/
@@ -36,6 +37,7 @@ bookshelf-api/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ## 🚀 Cara Menjalankan Proyek
 
